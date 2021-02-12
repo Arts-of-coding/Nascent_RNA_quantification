@@ -16,5 +16,5 @@ Reach out to me at one of the following places!
 
 GitHub
 
-# license
+# License
 https://opensource.org/licenses/mit-license.php
