@@ -8,3 +8,13 @@ The most intense spot in a smFISH image likely represents the transcription site
 Create a map for analyzing smFISH images. Place "Zstackselect.ijm", "Specific_Z_stack_ROI_select.ijm" and "Intensity calculation schedule smFISH transcription burst.xlsx" in this map. In FIJI activate the setting : "RawIntDen" within analysis. In FIJI open "Zstackselect" when smFISH images have been loaded in. Specify the lowest and highest value of the signal for each channel within the script. Open "Specific_Z_stack_ROI_select" in FIJI and adjust the path to where it is located (see macro). Now run "Zstackselect.ijm". Save all ROIs (for three background spots, three smFISH spots and one or two transcription sites).
 
 When having selected three background spots, three smFISH spots, the transcription site with shift click, click next. From the table that is generated, copy the values. Paste the values at the corresponding places in "Intensity calculation schedule smFISH transcription burst.xlsx". IMPORTANT: adjust the background levels according to the number of slices for the smFISH spots and transcription site in the excel file.
+
+# Help and support
+The preferred way to get support is through the Github issues page.
+
+Reach out to me at one of the following places!
+
+GitHub
+
+# license
+https://opensource.org/licenses/mit-license.php
